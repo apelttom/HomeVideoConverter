@@ -1,0 +1,16 @@
+POZOR! Pred konvertovanim se ujisti, ze mas slozky puvodni_video a prekonvertovane_video prazdne!
+Pokud slozky obsahuji nejaka videa, staci je prejmenovat (napr. na zivi_mrtvi_dil2)
+
+Pokud je puvodni video formatu mpg:
+
+	* nakopiruj video do slozky puvodni_video
+	* prejmenuj nakopirovane video na puvodni_video.mpg
+	* klikni na konvertuj_video_mpg.bat
+	* jakmile program dobehne, prekonvertovane video najdes ve slozce prekonvertovane_video
+---------------------------------------------------------------------
+Pokud je puvodni video formatu mov:
+	
+	* nakopiruj video do slozky puvodni_video
+	* prejmenuj nakopirovane video na puvodni_video.mov
+	* klikni na konvertuj_video_mov.bat
+	* jakmile program dobehne, prekonvertovane video najdes ve slozce prekonvertovane_video

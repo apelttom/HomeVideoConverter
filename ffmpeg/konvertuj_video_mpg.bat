@@ -1,0 +1,1 @@
+.\bin\ffmpeg -i .\puvodni_video\puvodni_video.mpg .\prekonvertovane_video\prekonvertovane_video.avi
